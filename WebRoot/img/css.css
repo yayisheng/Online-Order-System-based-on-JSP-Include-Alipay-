@@ -1,0 +1,33 @@
+
+BODY{
+	background-image: url(../Images/bg_1.gif);
+	scrollbar-face-color: #C0C0C0;
+	scrollbar-highlight-color: #C0C0C0;
+	scrollbar-shadow-color: #C0C0C0;
+	scrollbar-3dlight-color: #E0E0E0;
+	scrollbar-arrow-color:  #333333;
+	scrollbar-track-color: #E0E0E0;
+	background-position: center;
+}
+
+td{font-size:9pt;color:#353535} 
+body{font-size:9pt;line-height:120%} 
+
+a:link          { color: #000000; text-decoration: none }
+a:visited       { color: #000000; text-decoration: none }
+a:active        { color: #000000; text-decoration: none }
+a:hover         { color: #0099cc; text-decoration: none; position: relative; right: 0px; top: 0px }
+
+.table-Line {border-bottom-width: 1px;border-bottom-style: dotted;border-bottom-color: #cccccc;border-right-width: 1px;border-right-style: dotted;border-right-color: #cccccc;}
+.table-z {border-left-width: 1px;border-left-style: dotted;border-left-color: #cccccc;
+	border-top-width: 1px;
+	order-top-style: dotted;
+	border-top-color: #cccccc;
+	border-top-style: dotted;}
+
+.input7 {
+	BORDER-BOTTOM-WIDTH: 0px; WIDTH: 120px; COLOR: #000000; HEIGHT: 20px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	blr:expression(this.onFocus=this.blur())
+}
